@@ -13,7 +13,6 @@
 ## BACK-END
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; 
 ![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&Color=white&logoColor=EF5B25)
 ![Insomnia](https://img.shields.io/badge/insomnia-white?style=for-the-badge&logo=insomnia&Color=white&logoColor=4000bf)
